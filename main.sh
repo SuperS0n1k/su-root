@@ -1,4 +1,4 @@
 # su root;
 # Password: alpine;
 
-dpkg -i "/var/mobile/Documents/MYDEB.deb" ;
+dpkg -i "/var/mobile/Documents/MYDEB.deb";
