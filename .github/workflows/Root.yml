@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: su root
-        run: su root alpine
+
         
       - name: dpkg
         run: dpkg -i /path/to/deb
