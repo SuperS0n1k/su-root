@@ -29,4 +29,4 @@ jobs:
 
         
       - name: dpkg
-        run: sudo dpkg -i /p
+        run: sudo dpkg -i /pio
